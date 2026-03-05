@@ -1,0 +1,17 @@
+# 核心框架
+streamlit
+
+# 视频与音频处理
+yt-dlp
+moviepy
+pydub
+
+# AI 与 ASR
+openai-whisper
+openai
+faster-whisper
+tiktoken
+
+# 数据处理
+pandas
+python-dotenv
